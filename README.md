@@ -65,5 +65,5 @@ Customer Purchase Prediction-main/
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 **Dev Patel**
