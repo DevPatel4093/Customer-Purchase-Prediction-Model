@@ -58,11 +58,12 @@ Model performance was evaluated using:
 ---
 
 ## 📁 Project Structure
+```
 Customer Purchase Prediction-main/
 │── decision-tree-classifier.ipynb
 │── bank-additional.csv
 └── README.md
-
+```
 ---
 
 ## 👨‍💻 Author
